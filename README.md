@@ -1,12 +1,12 @@
-# techis-wd-Hive-Techwear
+# Tea Shop
 
 ```
-Hive-Techwear project, with a frontend built in React & Redux and a backend built in Django API.
+Tea-Shop project, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
 
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
+**This App uses Render and Netlify free plan, so I am afraid that it takes time to load the pages.**
 
 Check out [FRONTEND LIVE DEMO](https://trteashop.netlify.app/) here!!
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
-# Open http://127.0.0.1:8000/posts/
+# Open http://127.0.0.1:8000/items/
 ```
 
 3. Frontend setting
